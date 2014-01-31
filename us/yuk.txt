@@ -1,0 +1,23 @@
+<tr>
+<td><object
+        
+        width="98" height="13"
+      >
+        <param name="movie" value="XRFGYUT.swf">
+        <param name="bgcolor" value="#FFFFFF">
+        <param name="quality" value="high">
+        <param name="seamlesstabbing" value="false">
+        <param name="allowscriptaccess" value="samedomain">
+        <embed
+          type="application/x-shockwave-flash"
+          pluginspage="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"
+          name="solo"
+          width="98" height="13"
+          src="XRFGYUT.swf"
+          bgcolor="#FFFFFF"
+          quality="high"
+          seamlesstabbing="false"
+          allowscriptaccess="samedomain"
+        >
+        </embed>
+      </object></td></tr>

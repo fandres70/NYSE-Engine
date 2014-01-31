@@ -1,0 +1,1216 @@
+JNPR:16.91:Moving Up:PLOW:16.70:Buy Cost:2483
+CSCO:16.74:Moving Down:PHIGH:16.92:short Cost:2150
+CA:25.49:Breaking Beyond:PLOW:25.51:short Cost:3844
+CNP:20.36:Coming near:PHIGH:20.35:Buy Cost:
+DDS::Moving Down:PHIGH:66.70:short Cost:0
+DDS::Approaching:PLOW:65.02:short Cost:0
+DDS::Coming near:PHIGH:66.70:Buy Cost:0
+DDS::Retracing:PHIGH:66.70
+DDS::Breaking Beyond:PLOW:65.02:short Cost:0
+DDS::Breaking:PLOW:65.02:short Cost:0
+DDS::Sliding down:PAVG:65.98:Short Cost:0
+WFR::Moving Down:PHIGH:1.65:short Cost:0
+WFR::Approaching:PLOW:1.44:short Cost:0
+WFR::Retracing:PHIGH:1.65
+WFR::Breaking Beyond:PLOW:1.44:short Cost:0
+WFR::Breaking:PLOW:1.44:short Cost:0
+WFR::Sliding down:PAVG:1.54:Short Cost:0
+APD:79.68:Breaking:PLOW:79.70:short Cost:2836
+AKAM:29.99:Breaking:PHIGH:29.97:Buy Cost:6668
+DDS:67.86:Approaching:PHIGH:66.70:Buy Cost:8370
+DDS:67.86:Moving Up:PLOW:65.02:Buy Cost:8370
+DDS:67.86:Breaking:PHIGH:66.70:Buy Cost:8370
+DDS:67.86:Moving Beyond:PHIGH:66.70:Buy Cost:8370
+DDS:67.86:Coming near:PLOW:65.02:short Cost:8370
+DDS:67.86:Retracing:PLOW:65.02
+DDS:67.86:Sliding up:PAVG:65.98:Buy Cost:8370
+BBY:19.99:Moving Down:PHIGH:20.32:short Cost:3301
+MO:32.89:Retracing:PHIGH:32.90
+CNP:20.37:Moving Beyond:PHIGH:20.35:Buy Cost:1472
+CIT:34.29:Approaching:PLOW:34.21:short Cost:6357
+SYMC:14.59:Approaching:PHIGH:14.60:Buy Cost:3701
+WFR:1.67:Approaching:PHIGH:1.65:Buy Cost:27544
+WFR:1.67:Moving Up:PLOW:1.44:Buy Cost:27544
+WFR:1.67:Breaking:PHIGH:1.65:Buy Cost:27544
+WFR:1.67:Coming near:PLOW:1.44:short Cost:27544
+WFR:1.67:Retracing:PLOW:1.44
+WFR:1.67:Sliding up:PAVG:1.54:Buy Cost:27544
+YUM:64.62:Approaching:PHIGH:64.70:Buy Cost:2754
+NE:31.78:Moving Beyond:PHIGH:31.45:Buy Cost:11139
+NVDA:12.12:Moving Beyond:PHIGH:12.10:Buy Cost:7425
+EXC:37.49:Breaking:PHIGH:37.48:Buy Cost:2347
+NE:31.75:Coming near:PHIGH:31.45:Buy Cost:
+MMC:31.82:Sliding down:PAVG:31.83:Short Cost:942
+BA:69.73:Moving Up:PLOW:69.43:Buy Cost:860
+ADP:53.71:Breaking:PHIGH:53.69:Buy Cost:2420
+SE:27.90:Moving Down:PHIGH:27.96:short Cost:430
+CSCO:16.74:Moving Down:PHIGH:16.92:short Cost:2150
+SYMC:14.57:Moving Down:PHIGH:14.60:short Cost:411
+NVDA:12.10:Coming near:PHIGH:12.10:Buy Cost:
+TLAB:3.55:Approaching:PHIGH:3.58:Buy Cost:4507
+ANF:31.97:Approaching:PLOW:31.87:short Cost:9008
+SVU:4.33:Breaking:PLOW:4.34:short Cost:12471
+SNV:1.74:Retracing:PHIGH:1.75
+MO:32.92:Breaking:PHIGH:32.90:Buy Cost:2308
+NVDA:12.11:Breaking:PHIGH:12.10:Buy Cost:7266
+CIT:34.27:Approaching:PLOW:34.21:short Cost:6477
+WMB:29.37:Coming near:PHIGH:29.35:Buy Cost:
+BBY:20.01:Approaching:PHIGH:20.32:Buy Cost:18190
+BBY:20.00:Moving Down:PHIGH:20.32:short Cost:3200
+CELG:65.00:Approaching:PLOW:64.96:short Cost:3630
+YUM:64.55:Moving Down:PHIGH:64.70:short Cost:464
+ZION:18.35:Coming near:PHIGH:18.18:Buy Cost:
+CMA:29.39:Retracing:PHIGH:29.40
+WMB:29.37:Breaking:PHIGH:29.35:Buy Cost:5856
+EXC:37.47:Retracing:PHIGH:37.48
+BMY:34.30:Retracing:PHIGH:34.31
+BBY:20.01:Approaching:PHIGH:20.32:Buy Cost:18190
+CSCO:16.74:Moving Down:PHIGH:16.92:short Cost:2150
+NSM:19.45:Approaching:PLOW:19.12:short Cost:9357
+YUM:64.59:Approaching:PHIGH:64.70:Buy Cost:2662
+RSH:4.33:Approaching:PLOW:4.28:short Cost:5542
+SYMC:14.59:Approaching:PHIGH:14.60:Buy Cost:3701
+RSH:4.34:Moving Up:PLOW:4.28:Buy Cost:2764
+BLL:41.10:Retracing:PHIGH:41.11
+BBY:20.00:Moving Down:PHIGH:20.32:short Cost:3200
+ABI:15.53:Approaching:PLOW:15.49:short Cost:2189
+ABI:15.53:Sliding down:PAVG:15.68:Short Cost:2189
+NVDA:12.12:Moving Beyond:PHIGH:12.10:Buy Cost:7425
+RSH:4.33:Approaching:PLOW:4.28:short Cost:5542
+BLL:41.12:Breaking:PHIGH:41.11:Buy Cost:4085
+CNP:20.36:Coming near:PHIGH:20.35:Buy Cost:
+WFT:12.09:Retracing:PHIGH:12.10
+MMC:31.81:Sliding down:PAVG:31.83:Short Cost:1005
+TIE:11.37:Coming near:PHIGH:11.36:Buy Cost:
+CA:25.49:Breaking Beyond:PLOW:25.51:short Cost:3844
+ADP:53.68:Retracing:PHIGH:53.69
+AFL:40.60:Breaking Beyond:PLOW:40.71:short Cost:5714
+MUR:45.66:Moving Down:PHIGH:45.89:short Cost:1007
+SYMC:14.57:Moving Down:PHIGH:14.60:short Cost:411
+BLL:41.09:Retracing:PHIGH:41.11
+NVDA:12.10:Coming near:PHIGH:12.10:Buy Cost:
+AMZN:218.03:Breaking:PLOW:218.11:short Cost:3173
+BK:20.41:Approaching:PLOW:20.34:short Cost:2939
+BA:69.64:Approaching:PLOW:69.43:short Cost:1981
+BTU::Moving Down:PHIGH:24.28:short Cost:0
+BTU::Approaching:PLOW:23.36:short Cost:0
+BTU::Breaking Beyond:PLOW:23.36:short Cost:0
+BTU::Breaking:PLOW:23.36:short Cost:0
+BTU::Sliding down:PAVG:23.66:Short Cost:0
+OMC::Moving Down:PHIGH:46.70:short Cost:0
+OMC::Approaching:PLOW:46.04:short Cost:0
+OMC::Coming near:PHIGH:46.70:Buy Cost:0
+OMC::Retracing:PHIGH:46.70
+OMC::Breaking Beyond:PLOW:46.04:short Cost:0
+OMC::Breaking:PLOW:46.04:short Cost:0
+OMC::Sliding down:PAVG:46.56:Short Cost:0
+COF:52.36:Moving Beyond:PHIGH:51.95:Buy Cost:5882
+MCO:36.19:Retracing:PHIGH:36.20
+SE:27.86:Sliding down:PAVG:27.88:Short Cost:717
+CSCO:16.74:Moving Down:PHIGH:16.92:short Cost:2150
+CBE:69.25:Moving Up:PLOW:69.24:Buy Cost:28
+CBE:69.25:Coming near:PLOW:69.24:short Cost:28
+CBE:69.25:Retracing:PLOW:69.24
+CBE:69.25:Sliding up:PAVG:69.24:Buy Cost:28
+DYN:0.574:Moving Down:PHIGH:0.58:short Cost:2090
+DYN:0.574:Coming near:PHIGH:0.58:Buy Cost:2090
+DYN:0.574:Retracing:PHIGH:0.58
+DYN:0.574:Sliding down:PAVG:0.58:Short Cost:2090
+WFT:12.09:Retracing:PHIGH:12.10
+AKAM:29.96:Retracing:PHIGH:29.97
+OMC:47.91:Approaching:PHIGH:46.70:Buy Cost:7806
+OMC:47.91:Moving Up:PLOW:46.04:Buy Cost:7806
+OMC:47.91:Breaking:PHIGH:46.70:Buy Cost:7806
+OMC:47.91:Moving Beyond:PHIGH:46.70:Buy Cost:7806
+OMC:47.91:Coming near:PLOW:46.04:short Cost:7806
+OMC:47.91:Retracing:PLOW:46.04
+OMC:47.91:Sliding up:PAVG:46.56:Buy Cost:7806
+EXC:37.45:Retracing:PHIGH:37.48
+NVDA:12.12:Breaking:PHIGH:12.10:Buy Cost:7425
+NVDA:12.12:Moving Beyond:PHIGH:12.10:Buy Cost:7425
+NVDA:12.11:Coming near:PHIGH:12.10:Buy Cost:
+BMY:34.30:Retracing:PHIGH:34.31
+CBE:69.25:Moving Up:PLOW:69.24:Buy Cost:28
+CBE:69.25:Coming near:PLOW:69.24:short Cost:28
+CBE:69.25:Retracing:PLOW:69.24
+CBE:69.25:Sliding up:PAVG:69.24:Buy Cost:28
+AMZN:218.13:Retracing:PLOW:218.11
+LTD:42.70:Moving Beyond:PHIGH:42.59:Buy Cost:4402
+BTU:24.12:Approaching:PHIGH:24.28:Buy Cost:6301
+BTU:24.12:Moving Up:PLOW:23.36:Buy Cost:6301
+BTU:24.12:Coming near:PLOW:23.36:short Cost:6301
+BTU:24.12:Retracing:PLOW:23.36
+BTU:24.12:Sliding up:PAVG:23.66:Buy Cost:6301
+NVDA:12.12:Moving Beyond:PHIGH:12.10:Buy Cost:7425
+AKAM:29.99:Breaking:PHIGH:29.97:Buy Cost:6668
+NVDA:12.11:Coming near:PHIGH:12.10:Buy Cost:
+WMB:29.34:Retracing:PHIGH:29.35
+CNP:20.34:Retracing:PHIGH:20.35
+GLW:13.10:Breaking:PHIGH:13.09:Buy Cost:3358
+ADSK:32.68:Sliding up:PAVG:32.65:Buy Cost:856
+AMZN:218.08:Breaking:PLOW:218.11:short Cost:3127
+CAG:25.10:Retracing:PHIGH:25.11
+NOV:66.27:Coming near:PHIGH:66.09:Buy Cost:
+ABT:61.76:Coming near:PHIGH:61.58:Buy Cost:
+BK:20.41:Approaching:PLOW:20.34:short Cost:2939
+LTD:42.68:Coming near:PHIGH:42.59:Buy Cost:
+CBE:69.25:Moving Up:PLOW:69.24:Buy Cost:28
+CBE:69.25:Coming near:PLOW:69.24:short Cost:28
+CBE:69.25:Retracing:PLOW:69.24
+CBE:69.25:Sliding up:PAVG:69.24:Buy Cost:28
+NOV:66.32:Moving Beyond:PHIGH:66.09:Buy Cost:7448
+OMX:4.46:Moving Beyond:PHIGH:4.37:Buy Cost:13452
+SNV:1.74:Retracing:PHIGH:1.75
+AMZN:218.16:Retracing:PLOW:218.11
+CELG:64.97:Retracing:PLOW:64.96
+TIE:11.37:Breaking:PHIGH:11.36:Buy Cost:5452
+ADP:53.68:Retracing:PHIGH:53.69
+BMY:34.30:Retracing:PHIGH:34.31
+ABT:61.77:Moving Beyond:PHIGH:61.58:Buy Cost:2395
+EXC:37.49:Breaking:PHIGH:37.48:Buy Cost:2347
+NVDA:12.12:Moving Beyond:PHIGH:12.10:Buy Cost:7425
+YUM:64.71:Breaking:PHIGH:64.70:Buy Cost:3028
+CMCSA:30.27:Retracing:PHIGH:30.29
+BMY:34.32:Breaking:PHIGH:34.31:Buy Cost:1282
+MO:32.91:Breaking:PHIGH:32.90:Buy Cost:2248
+BLL:41.13:Breaking:PHIGH:41.11:Buy Cost:4133
+NBR:13.38:Breaking:PHIGH:13.36:Buy Cost:8669
+ANF:32.03:Moving Up:PLOW:31.87:Buy Cost:999
+CIT:34.33:Moving Up:PLOW:34.21:Buy Cost:699
+GLW:13.12:Breaking:PHIGH:13.09:Buy Cost:3658
+MMM:85.96:Approaching:PHIGH:86.19:Buy Cost:1465
+TSO:22.41:Sliding up:PAVG:22.39:Buy Cost:4016
+CMCSA:30.30:Breaking:PHIGH:30.29:Buy Cost:2574
+TIE:11.39:Breaking:PHIGH:11.36:Buy Cost:5794
+TIE:11.39:Moving Beyond:PHIGH:11.36:Buy Cost:5794
+AFL:40.62:Coming near:PLOW:40.71:short Cost:
+AA:8.51:Coming near:PLOW:8.52:short Cost:
+AEE:33.24:Approaching:PHIGH:33.32:Buy Cost:1865
+SYMC:14.59:Approaching:PHIGH:14.60:Buy Cost:3701
+ETFC:8.17:Approaching:PHIGH:8.25:Buy Cost:8812
+TSO:22.37:Sliding down:PAVG:22.39:Short Cost:3576
+YUM:64.60:Retracing:PHIGH:64.70
+WFT:12.14:Breaking:PHIGH:12.10:Buy Cost:9719
+BK:20.45:Moving Up:PLOW:20.34:Buy Cost:1075
+WMB:29.41:Breaking:PHIGH:29.35:Buy Cost:6120
+WMB:29.41:Moving Beyond:PHIGH:29.35:Buy Cost:6120
+NE:31.89:Moving Beyond:PHIGH:31.45:Buy Cost:11790
+CMA:29.41:Breaking:PHIGH:29.40:Buy Cost:3672
+CNP:20.36:Breaking:PHIGH:20.35:Buy Cost:1375
+LTD:42.71:Moving Beyond:PHIGH:42.59:Buy Cost:4448
+MMC:31.84:Sliding up:PAVG:31.83:Buy Cost:2512
+COST:88.69:Retracing:PHIGH:88.70
+ESV:44.47:Sliding up:PAVG:44.45:Buy Cost:5396
+BEN::Moving Down:PHIGH:104.58:short Cost:0
+BEN::Approaching:PLOW:102.23:short Cost:0
+BEN::Coming near:PHIGH:104.58:Buy Cost:0
+BEN::Retracing:PHIGH:104.58
+BEN::Breaking Beyond:PLOW:102.23:short Cost:0
+BEN::Breaking:PLOW:102.23:short Cost:0
+BEN::Sliding down:PAVG:104.34:Short Cost:0
+RSH::Breaking Beyond:PLOW:4.28:short Cost:0
+RSH::Breaking:PLOW:4.28:short Cost:0
+COL:50.40:Sliding up:PAVG:50.37:Buy Cost:6071
+RHI::Moving Down:PHIGH:26.84:short Cost:0
+RHI::Approaching:PLOW:26.04:short Cost:0
+RHI::Coming near:PHIGH:26.84:Buy Cost:0
+RHI::Retracing:PHIGH:26.84
+RHI::Breaking Beyond:PLOW:26.04:short Cost:0
+RHI::Breaking:PLOW:26.04:short Cost:0
+RHI::Sliding down:PAVG:26.82:Short Cost:0
+AFL:40.60:Breaking Beyond:PLOW:40.71:short Cost:5714
+WFR:1.72:Moving Beyond:PHIGH:1.65:Buy Cost:32558
+AA:8.53:Retracing:PLOW:8.52
+AMZN:218.59:Moving Up:PLOW:218.11:Buy Cost:439
+MSFT::Moving Down:PHIGH:28.75:short Cost:0
+MSFT::Approaching:PLOW:28.39:short Cost:0
+MSFT::Coming near:PHIGH:28.75:Buy Cost:0
+MSFT::Retracing:PHIGH:28.75
+MSFT::Breaking Beyond:PLOW:28.39:short Cost:0
+MSFT::Breaking:PLOW:28.39:short Cost:0
+MSFT::Sliding down:PAVG:28.51:Short Cost:0
+AAPL:578.17:Breaking:PHIGH:577.32:Buy Cost:2653
+BBY:20.01:Approaching:PHIGH:20.32:Buy Cost:18190
+BA:69.74:Moving Up:PLOW:69.43:Buy Cost:889
+BSX:5.72:Approaching:PHIGH:5.75:Buy Cost:2797
+BRCM::Approaching:PLOW:33.81:short Cost:0
+BRCM::Breaking Beyond:PLOW:33.81:short Cost:0
+BRCM::Breaking:PLOW:33.81:short Cost:0
+BRCM::Sliding down:PAVG:33.87:Short Cost:0
+BEN:107.67:Approaching:PHIGH:104.58:Buy Cost:10104
+BEN:107.67:Moving Up:PLOW:102.23:Buy Cost:10104
+BEN:107.67:Breaking:PHIGH:104.58:Buy Cost:10104
+BEN:107.67:Moving Beyond:PHIGH:104.58:Buy Cost:10104
+BEN:107.67:Coming near:PLOW:102.23:short Cost:10104
+BEN:107.67:Retracing:PLOW:102.23
+BEN:107.67:Sliding up:PAVG:104.34:Buy Cost:10104
+CBG:16.15:Sliding up:PAVG:16.14:Buy Cost:1486
+BRCM:33.99:Moving Up:PLOW:33.81:Buy Cost:1059
+BRCM:33.99:Coming near:PLOW:33.81:short Cost:1059
+BRCM:33.99:Retracing:PLOW:33.81
+BRCM:33.99:Sliding up:PAVG:33.87:Buy Cost:1059
+CNP:20.37:Moving Beyond:PHIGH:20.35:Buy Cost:1472
+CMCSA:30.28:Retracing:PHIGH:30.29
+BMY:34.29:Retracing:PHIGH:34.31
+CIT:34.25:Approaching:PLOW:34.21:short Cost:6598
+WHR::Moving Down:PHIGH:59.02:short Cost:0
+WHR::Approaching:PLOW:56.70:short Cost:0
+WHR::Coming near:PHIGH:59.02:Buy Cost:0
+WHR::Retracing:PHIGH:59.02
+WHR::Breaking Beyond:PLOW:56.70:short Cost:0
+WHR::Breaking:PLOW:56.70:short Cost:0
+WHR::Sliding down:PAVG:58.86:Short Cost:0
+WMB::Moving Down:PHIGH:29.35:short Cost:0
+WMB::Approaching:PLOW:28.51:short Cost:0
+WMB::Coming near:PHIGH:29.35:Buy Cost:0
+WMB::Retracing:PHIGH:29.35
+WMB::Breaking Beyond:PLOW:28.51:short Cost:0
+WMB::Breaking:PLOW:28.51:short Cost:0
+WMB::Sliding down:PAVG:29.30:Short Cost:0
+ETFC:8.15:Moving Down:PHIGH:8.25:short Cost:2453
+RSH:4.33:Coming near:PLOW:4.28:short Cost:
+RSH:4.33:Retracing:PLOW:4.28
+DTV:44.13:Moving Up:PLOW:44.01:Buy Cost:543
+DYN:0.574:Moving Down:PHIGH:0.58:short Cost:2090
+DYN:0.574:Coming near:PHIGH:0.58:Buy Cost:2090
+DYN:0.574:Retracing:PHIGH:0.58
+DYN:0.574:Sliding down:PAVG:0.58:Short Cost:2090
+DELL:12.18:Sliding up:PAVG:12.16:Buy Cost:3776
+SE:27.93:Approaching:PHIGH:27.96:Buy Cost:2721
+SE:27.93:Sliding up:PAVG:27.88:Buy Cost:2721
+BBY:19.97:Moving Down:PHIGH:20.32:short Cost:3505
+WMB:29.41:Approaching:PHIGH:29.35:Buy Cost:6120
+WMB:29.41:Moving Up:PLOW:28.51:Buy Cost:6120
+WMB:29.41:Breaking:PHIGH:29.35:Buy Cost:6120
+WMB:29.41:Moving Beyond:PHIGH:29.35:Buy Cost:6120
+WMB:29.41:Coming near:PLOW:28.51:short Cost:6120
+WMB:29.41:Retracing:PLOW:28.51
+WMB:29.41:Sliding up:PAVG:29.30:Buy Cost:6120
+MUR:45.74:Approaching:PHIGH:45.89:Buy Cost:4503
+BIIB::Approaching:PLOW:133.19:short Cost:0
+BIIB::Breaking Beyond:PLOW:133.19:short Cost:0
+BIIB::Breaking:PLOW:133.19:short Cost:0
+BIIB::Sliding down:PAVG:133.34:Short Cost:0
+CMCSA:30.28:Retracing:PHIGH:30.29
+AKAM::Moving Down:PHIGH:29.97:short Cost:0
+AKAM::Approaching:PLOW:28.99:short Cost:0
+AKAM::Retracing:PHIGH:29.97
+AKAM::Breaking Beyond:PLOW:28.99:short Cost:0
+AKAM::Breaking:PLOW:28.99:short Cost:0
+AKAM::Sliding down:PAVG:29.07:Short Cost:0
+ADP:53.70:Breaking:PHIGH:53.69:Buy Cost:2383
+CBS:32.21:Approaching:PHIGH:32.67:Buy Cost:3415
+CNP:20.36:Coming near:PHIGH:20.35:Buy Cost:
+MCO:36.22:Breaking:PHIGH:36.20:Buy Cost:6129
+WHR:60.93:Approaching:PHIGH:59.02:Buy Cost:13884
+WHR:60.93:Moving Up:PLOW:56.70:Buy Cost:13884
+WHR:60.93:Breaking:PHIGH:59.02:Buy Cost:13884
+WHR:60.93:Moving Beyond:PHIGH:59.02:Buy Cost:13884
+WHR:60.93:Coming near:PLOW:56.70:short Cost:13884
+WHR:60.93:Retracing:PLOW:56.70
+WHR:60.93:Sliding up:PAVG:58.86:Buy Cost:13884
+BIIB:133.51:Moving Up:PLOW:133.19:Buy Cost:479
+BIIB:133.51:Coming near:PLOW:133.19:short Cost:479
+BIIB:133.51:Retracing:PLOW:133.19
+BIIB:133.51:Sliding up:PAVG:133.34:Buy Cost:479
+ESV:44.35:Sliding down:PAVG:44.45:Short Cost:2525
+CMA:29.39:Retracing:PHIGH:29.40
+DELL:12.15:Sliding down:PAVG:12.16:Short Cost:1481
+DTV:44.12:Approaching:PLOW:44.01:short Cost:1722
+SYMC:14.59:Retracing:PHIGH:14.60
+DTV:44.13:Moving Up:PLOW:44.01:Buy Cost:543
+AKAM:30.02:Approaching:PHIGH:29.97:Buy Cost:6862
+AKAM:30.02:Moving Up:PLOW:28.99:Buy Cost:6862
+AKAM:30.02:Breaking:PHIGH:29.97:Buy Cost:6862
+AKAM:30.02:Coming near:PLOW:28.99:short Cost:6862
+AKAM:30.02:Retracing:PLOW:28.99
+AKAM:30.02:Sliding up:PAVG:29.07:Buy Cost:6862
+MO:32.89:Retracing:PHIGH:32.90
+TE::Moving Down:PHIGH:17.56:short Cost:0
+TE::Approaching:PLOW:17.18:short Cost:0
+TE::Coming near:PHIGH:17.56:Buy Cost:0
+TE::Retracing:PHIGH:17.56
+TE::Breaking Beyond:PLOW:17.18:short Cost:0
+TE::Breaking:PLOW:17.18:short Cost:0
+TE::Sliding down:PAVG:17.47:Short Cost:0
+YUM:64.50:Moving Down:PHIGH:64.70:short Cost:620
+DYN:0.585:Approaching:PHIGH:0.58:Buy Cost:22222
+DYN:0.585:Breaking:PHIGH:0.58:Buy Cost:22222
+DYN:0.585:Moving Beyond:PHIGH:0.58:Buy Cost:22222
+DYN:0.585:Sliding up:PAVG:0.58:Buy Cost:22222
+WMB:29.36:Coming near:PHIGH:29.35:Buy Cost:
+CBS:32.16:Moving Down:PHIGH:32.67:short Cost:3171
+SE:27.86:Moving Down:PHIGH:27.96:short Cost:717
+SE:27.86:Sliding down:PAVG:27.88:Short Cost:717
+SYMC:14.57:Moving Down:PHIGH:14.60:short Cost:411
+AA:8.51:Breaking:PLOW:8.52:short Cost:9400
+CIT:34.28:Approaching:PLOW:34.21:short Cost:6417
+BMY:34.27:Moving Down:PHIGH:34.31:short Cost:233
+ETFC:8.16:Approaching:PHIGH:8.25:Buy Cost:8578
+RHI:28.27:Approaching:PHIGH:26.84:Buy Cost:15776
+RHI:28.27:Moving Up:PLOW:26.04:Buy Cost:15776
+RHI:28.27:Breaking:PHIGH:26.84:Buy Cost:15776
+RHI:28.27:Moving Beyond:PHIGH:26.84:Buy Cost:15776
+RHI:28.27:Coming near:PLOW:26.04:short Cost:15776
+RHI:28.27:Retracing:PLOW:26.04
+RHI:28.27:Sliding up:PAVG:26.82:Buy Cost:15776
+CSCO:16.76:Approaching:PHIGH:16.92:Buy Cost:2744
+CMA:29.39:Retracing:PHIGH:29.40
+CNX:28.27:Coming near:PLOW:28.31:short Cost:
+AA:8.53:Retracing:PLOW:8.52
+MMC:31.87:Sliding up:PAVG:31.83:Buy Cost:2698
+DTV:44.10:Approaching:PLOW:44.01:short Cost:1814
+ESV:44.48:Sliding up:PAVG:44.45:Buy Cost:5440
+MSFT:29.59:Approaching:PHIGH:28.75:Buy Cost:8110
+MSFT:29.59:Moving Up:PLOW:28.39:Buy Cost:8110
+MSFT:29.59:Breaking:PHIGH:28.75:Buy Cost:8110
+MSFT:29.59:Moving Beyond:PHIGH:28.75:Buy Cost:8110
+MSFT:29.59:Coming near:PLOW:28.39:short Cost:8110
+MSFT:29.59:Retracing:PLOW:28.39
+MSFT:29.59:Sliding up:PAVG:28.51:Buy Cost:8110
+AEE:33.20:Moving Down:PHIGH:33.32:short Cost:722
+TE:17.71:Approaching:PHIGH:17.56:Buy Cost:5985
+TE:17.71:Moving Up:PLOW:17.18:Buy Cost:5985
+TE:17.71:Breaking:PHIGH:17.56:Buy Cost:5985
+TE:17.71:Moving Beyond:PHIGH:17.56:Buy Cost:5985
+TE:17.71:Coming near:PLOW:17.18:short Cost:5985
+TE:17.71:Retracing:PLOW:17.18
+TE:17.71:Sliding up:PAVG:17.47:Buy Cost:5985
+CA:25.46:Breaking Beyond:PLOW:25.51:short Cost:4084
+ADP:53.65:Retracing:PHIGH:53.69
+CCU:66.00:Approaching:PHIGH:66.18:Buy Cost:1666
+CCE:26.84:Moving Down:PHIGH:27.06:short Cost:1639
+YUM:64.32:Sliding down:PAVG:64.40:Short Cost:1181
+TIE:11.36:Coming near:PHIGH:11.36:Buy Cost:
+AA:8.51:Breaking:PLOW:8.52:short Cost:9400
+CMA:29.38:Retracing:PHIGH:29.40
+COL:50.34:Sliding down:PAVG:50.37:Short Cost:675
+TJX:41.35:Coming near:PHIGH:41.28:Buy Cost:
+WMB:29.33:Retracing:PHIGH:29.35
+WEN:4.52:Approaching:PHIGH:4.56:Buy Cost:3097
+CVH:32.40:Coming near:PHIGH:32.19:Buy Cost:
+CSCO:16.73:Moving Down:PHIGH:16.92:short Cost:2271
+CBG:16.13:Sliding down:PAVG:16.14:Short Cost:4463
+CNX:28.23:Breaking Beyond:PLOW:28.31:short Cost:10201
+CCU:65.88:Moving Down:PHIGH:66.18:short Cost:910
+NBR:13.35:Retracing:PHIGH:13.36
+MUR:45.71:Moving Down:PHIGH:45.89:short Cost:787
+MCO:36.18:Retracing:PHIGH:36.20
+JNJ::Moving Down:PHIGH:62.38:short Cost:0
+JNJ::Approaching:PLOW:62.00:short Cost:0
+JNJ::Coming near:PHIGH:62.38:Buy Cost:0
+JNJ::Retracing:PHIGH:62.38
+JNJ::Breaking Beyond:PLOW:62.00:short Cost:0
+JNJ::Breaking:PLOW:62.00:short Cost:0
+JNJ::Sliding down:PAVG:62.21:Short Cost:0
+WEN:4.51:Moving Down:PHIGH:4.56:short Cost:2217
+SLE:20.12:Coming near:PLOW:20.25:short Cost:
+APD:79.53:Breaking Beyond:PLOW:79.70:short Cost:3218
+SYMC:14.59:Approaching:PHIGH:14.60:Buy Cost:3701
+BA:69.68:Approaching:PLOW:69.43:short Cost:1865
+TIE:11.37:Breaking:PHIGH:11.36:Buy Cost:5452
+CIT:34.31:Moving Up:PLOW:34.21:Buy Cost:582
+CBE:69.23:Approaching:PLOW:69.24:short Cost:3553
+CBE:69.23:Breaking Beyond:PLOW:69.24:short Cost:3553
+CBE:69.23:Breaking:PLOW:69.24:short Cost:3553
+CBE:69.23:Sliding down:PAVG:69.24:Short Cost:3553
+WFR:1.70:Coming near:PHIGH:1.65:Buy Cost:
+WMB:29.32:Moving Down:PHIGH:29.35:short Cost:204
+SYMC:14.57:Moving Down:PHIGH:14.60:short Cost:411
+AMZN:218.33:Approaching:PLOW:218.11:short Cost:2894
+WEN:4.52:Approaching:PHIGH:4.56:Buy Cost:3097
+CNP:20.34:Retracing:PHIGH:20.35
+ABT:61.74:Coming near:PHIGH:61.58:Buy Cost:
+WEN:4.51:Moving Down:PHIGH:4.56:short Cost:2217
+SUN:46.81:Coming near:PHIGH:46.56:Buy Cost:
+MUR:45.65:Moving Down:PHIGH:45.89:short Cost:1051
+SUN:46.82:Moving Beyond:PHIGH:46.56:Buy Cost:5510
+OMX:4.46:Moving Beyond:PHIGH:4.37:Buy Cost:13452
+WMB:29.31:Sliding up:PAVG:29.30:Buy Cost:5458
+WHR::Moving Down:PHIGH:59.02:short Cost:0
+WHR::Approaching:PLOW:56.70:short Cost:0
+WHR::Coming near:PHIGH:59.02:Buy Cost:0
+WHR::Retracing:PHIGH:59.02
+WHR::Breaking Beyond:PLOW:56.70:short Cost:0
+WHR::Breaking:PLOW:56.70:short Cost:0
+WHR::Sliding down:PAVG:58.86:Short Cost:0
+MMM:85.76:Moving Down:PHIGH:86.19:short Cost:1002
+AA:8.49:Breaking Beyond:PLOW:8.52:short Cost:9893
+BLL:41.07:Retracing:PHIGH:41.11
+WEN:4.53:Approaching:PHIGH:4.56:Buy Cost:3532
+CVH:32.45:Moving Beyond:PHIGH:32.19:Buy Cost:4869
+T:34.46:Approaching:PHIGH:34.74:Buy Cost:1741
+BMY:34.29:Approaching:PHIGH:34.31:Buy Cost:1108
+CNP:20.36:Breaking:PHIGH:20.35:Buy Cost:1375
+TIE:11.38:Breaking:PHIGH:11.36:Buy Cost:5623
+TIE:11.38:Moving Beyond:PHIGH:11.36:Buy Cost:5623
+TIE:11.37:Coming near:PHIGH:11.36:Buy Cost:
+CBE:69.26:Moving Up:PLOW:69.24:Buy Cost:57
+CBE:69.26:Coming near:PLOW:69.24:short Cost:57
+CBE:69.26:Retracing:PLOW:69.24
+CBE:69.26:Sliding up:PAVG:69.24:Buy Cost:57
+WHR:60.86:Approaching:PHIGH:59.02:Buy Cost:13670
+WHR:60.86:Moving Up:PLOW:56.70:Buy Cost:13670
+WHR:60.86:Breaking:PHIGH:59.02:Buy Cost:13670
+WHR:60.86:Moving Beyond:PHIGH:59.02:Buy Cost:13670
+WHR:60.86:Coming near:PLOW:56.70:short Cost:13670
+WHR:60.86:Retracing:PLOW:56.70
+WHR:60.86:Sliding up:PAVG:58.86:Buy Cost:13670
+BK:20.43:Moving Up:PLOW:20.34:Buy Cost:881
+ABT:61.79:Moving Beyond:PHIGH:61.58:Buy Cost:2459
+AMZN:218.05:Breaking:PLOW:218.11:short Cost:3155
+CVH:32.41:Coming near:PHIGH:32.19:Buy Cost:
+HRB:15.39:Approaching:PLOW:15.31:short Cost:2209
+WFR:1.71:Moving Beyond:PHIGH:1.65:Buy Cost:31578
+CBG:16.16:Sliding up:PAVG:16.14:Buy Cost:1608
+XEL:28.41:Breaking:PHIGH:28.40:Buy Cost:3308
+LTD:42.63:Coming near:PHIGH:42.59:Buy Cost:
+TIE:11.35:Retracing:PHIGH:11.36
+SUN:46.80:Coming near:PHIGH:46.56:Buy Cost:
+BA:69.71:Moving Up:PLOW:69.43:Buy Cost:803
+EXC:37.45:Retracing:PHIGH:37.48
+QLGC:13.82:Moving Beyond:PHIGH:13.77:Buy Cost:6367
+SYMC:14.59:Approaching:PHIGH:14.60:Buy Cost:3701
+JNJ:62.90:Approaching:PHIGH:62.38:Buy Cost:2861
+JNJ:62.90:Moving Up:PLOW:62.00:Buy Cost:2861
+JNJ:62.90:Breaking:PHIGH:62.38:Buy Cost:2861
+JNJ:62.90:Moving Beyond:PHIGH:62.38:Buy Cost:2861
+JNJ:62.90:Coming near:PLOW:62.00:short Cost:2861
+JNJ:62.90:Retracing:PLOW:62.00
+JNJ:62.90:Sliding up:PAVG:62.21:Buy Cost:2861
+ABT:61.76:Coming near:PHIGH:61.58:Buy Cost:
+NVDA:12.11:Coming near:PHIGH:12.10:Buy Cost:
+ABT:61.78:Moving Beyond:PHIGH:61.58:Buy Cost:2427
+WMB:29.29:Sliding down:PAVG:29.30:Short Cost:409
+AMZN:218.21:Retracing:PLOW:218.11
+CNP:20.34:Retracing:PHIGH:20.35
+NVDA:12.12:Moving Beyond:PHIGH:12.10:Buy Cost:7425
+OMX:4.44:Coming near:PHIGH:4.37:Buy Cost:
+LTD:42.75:Moving Beyond:PHIGH:42.59:Buy Cost:4631
+MCO:36.21:Breaking:PHIGH:36.20:Buy Cost:6075
+CMA:29.41:Breaking:PHIGH:29.40:Buy Cost:3672
+NSM:19.49:Moving Up:PLOW:19.12:Buy Cost:3796
+NE:31.79:Moving Beyond:PHIGH:31.45:Buy Cost:11198
+ODP:2.08:Breaking:PHIGH:2.07:Buy Cost:6730
+TSO:22.40:Sliding up:PAVG:22.39:Buy Cost:3928
+TIE:11.38:Breaking:PHIGH:11.36:Buy Cost:5623
+TIE:11.38:Moving Beyond:PHIGH:11.36:Buy Cost:5623
+SCHW:12.26:Moving Up:PLOW:12.25:Buy Cost:163
+SCHW:12.26:Coming near:PLOW:12.25:short Cost:163
+SCHW:12.26:Retracing:PLOW:12.25
+SCHW:12.26:Sliding up:PAVG:12.25:Buy Cost:163
+BMY:34.33:Breaking:PHIGH:34.31:Buy Cost:1339
+TJX:41.41:Moving Beyond:PHIGH:41.28:Buy Cost:3574
+CI:44.79:Moving Beyond:PHIGH:44.54:Buy Cost:5224
+CTXS:77.08:Approaching:PHIGH:78.15:Buy Cost:3606
+CA:25.48:Breaking Beyond:PLOW:25.51:short Cost:3924
+YUM:64.45:Sliding up:PAVG:64.40:Buy Cost:2234
+TIE:11.37:Coming near:PHIGH:11.36:Buy Cost:
+YUM:64.39:Sliding down:PAVG:64.40:Short Cost:962
+AGN:91.29:Moving Down:PHIGH:91.90:short Cost:1336
+FDX::Moving Down:PHIGH:85.69:short Cost:0
+FDX::Approaching:PLOW:83.80:short Cost:0
+CSX::Moving Down:PHIGH:20.48:short Cost:0
+FDX::Coming near:PHIGH:85.69:Buy Cost:0
+CSX::Approaching:PLOW:20.11:short Cost:0
+FDX::Retracing:PHIGH:85.69
+CSX::Coming near:PHIGH:20.48:Buy Cost:0
+FDX::Breaking Beyond:PLOW:83.80:short Cost:0
+CSX::Retracing:PHIGH:20.48
+FDX::Breaking:PLOW:83.80:short Cost:0
+CSX::Breaking Beyond:PLOW:20.11:short Cost:0
+FDX::Sliding down:PAVG:84.34:Short Cost:0
+CSX::Sliding down:PAVG:20.33:Short Cost:0
+CVS::Moving Down:PHIGH:20.48:short Cost:0
+CVS::Approaching:PLOW:20.11:short Cost:0
+CVS::Coming near:PHIGH:20.48:Buy Cost:0
+CVS::Retracing:PHIGH:20.48
+CVS::Breaking Beyond:PLOW:20.11:short Cost:0
+CVS::Breaking:PLOW:20.11:short Cost:0
+CVS::Sliding down:PAVG:20.33:Short Cost:0
+AES::Moving Down:PHIGH:12.67:short Cost:0
+AES::Approaching:PLOW:12.34:short Cost:0
+AES::Breaking Beyond:PLOW:12.34:short Cost:0
+AES::Breaking:PLOW:12.34:short Cost:0
+AES::Sliding down:PAVG:12.36:Short Cost:0
+BBT::Moving Down:PHIGH:29.08:short Cost:0
+BBT::Approaching:PLOW:28.45:short Cost:0
+
+HPQ::Approaching:PLOW:21.06:short Cost:0
+BBT::Breaking Beyond:PLOW:28.45:short Cost:0
+BBT::Breaking:PLOW:28.45:short Cost:0
+HPQ::Retracing:PHIGH:21.75
+HPQ::Breaking Beyond:PLOW:21.06:short Cost:0
+HPQ::Breaking:PLOW:21.06:short Cost:0
+BBT::Sliding down:PAVG:28.54:Short Cost:0
+HPQ::Sliding down:PAVG:21.68:Short Cost:0
+IPG::Moving Down:PHIGH:10.36:short Cost:0
+IPG::Approaching:PLOW:9.96:short Cost:0
+IPG::Coming near:PHIGH:10.36:Buy Cost:0
+IPG::Retracing:PHIGH:10.36
+IPG::Breaking Beyond:PLOW:9.96:short Cost:0
+IPG::Breaking:PLOW:9.96:short Cost:0
+IPG::Sliding down:PAVG:10.36:Short Cost:0
+CVH::Moving Down:PHIGH:32.19:short Cost:0
+CVH::Approaching:PLOW:31.66:short Cost:0
+CVH::Retracing:PHIGH:32.19
+CVH::Breaking Beyond:PLOW:31.66:short Cost:0
+CVH::Breaking:PLOW:31.66:short Cost:0
+CVH::Sliding down:PAVG:31.73:Short Cost:0
+GGP::Moving Down:PHIGH:16.59:short Cost:0
+GGP::Approaching:PLOW:15.89:short Cost:0
+GGP::Coming near:PHIGH:16.59:Buy Cost:0
+GGP::Retracing:PHIGH:16.59
+GGP::Breaking Beyond:PLOW:15.89:short Cost:0
+GGP::Breaking:PLOW:15.89:short Cost:0
+GGP::Sliding down:PAVG:16.51:Short Cost:0
+AGN::Approaching:PLOW:90.59:short Cost:0
+AGN::Breaking Beyond:PLOW:90.59:short Cost:0
+ITT::Moving Down:PHIGH:19.74:short Cost:0
+ITT::Approaching:PLOW:19.31:short Cost:0
+AGN::Breaking:PLOW:90.59:short Cost:0
+ITT::Coming near:PHIGH:19.74:Buy Cost:0
+AGN::Sliding down:PAVG:90.74:Short Cost:0
+ITT::Retracing:PHIGH:19.74
+ITT::Breaking Beyond:PLOW:19.31:short Cost:0
+ITT::Breaking:PLOW:19.31:short Cost:0
+ITT::Sliding down:PAVG:19.70:Short Cost:0
+JBL::Moving Down:PHIGH:18.62:short Cost:0
+JBL::Approaching:PLOW:17.76:short Cost:0
+JBL::Coming near:PHIGH:18.62:Buy Cost:0
+JBL::Retracing:PHIGH:18.62
+JBL::Breaking Beyond:PLOW:17.76:short Cost:0
+JBL::Breaking:PLOW:17.76:short Cost:0
+JBL::Sliding down:PAVG:18.60:Short Cost:0
+HPQ:22.29:Approaching:PHIGH:21.75:Buy Cost:11036
+HPQ:22.29:Moving Up:PLOW:21.06:Buy Cost:11036
+HPQ:22.29:Breaking:PHIGH:21.75:Buy Cost:11036
+HPQ:22.29:Moving Beyond:PHIGH:21.75:Buy Cost:11036
+HPQ:22.29:Coming near:PLOW:21.06:short Cost:11036
+HPQ:22.29:Retracing:PLOW:21.06
+HPQ:22.29:Sliding up:PAVG:21.68:Buy Cost:11036
+AA:8.51:Coming near:PLOW:8.52:short Cost:
+BBT:28.93:Approaching:PHIGH:29.08:Buy Cost:3318
+BBT:28.93:Moving Up:PLOW:28.45:Buy Cost:3318
+BBT:28.93:Coming near:PLOW:28.45:short Cost:3318
+BBT:28.93:Retracing:PLOW:28.45
+BBT:28.93:Sliding up:PAVG:28.54:Buy Cost:3318
+AES:12.51:Moving Up:PLOW:12.34:Buy Cost:2717
+AES:12.51:Coming near:PLOW:12.34:short Cost:2717
+AES:12.51:Retracing:PLOW:12.34
+AES:12.51:Sliding up:PAVG:12.36:Buy Cost:2717
+CNP:20.33:Moving Down:PHIGH:20.35:short Cost:196
+CNP:20.33:Retracing:PHIGH:20.35
+AA:8.50:Breaking Beyond:PLOW:8.52:short Cost:9647
+AGN:91.28:Moving Up:PLOW:90.59:Buy Cost:1511
+AGN:91.28:Coming near:PLOW:90.59:short Cost:1511
+AGN:91.28:Retracing:PLOW:90.59
+AGN:91.28:Sliding up:PAVG:90.74:Buy Cost:1511
+AMZN:218.46:Moving Up:PLOW:218.11:Buy Cost:320
+SCHW:12.26:Moving Up:PLOW:12.25:Buy Cost:163
+SCHW:12.26:Coming near:PLOW:12.25:short Cost:163
+SCHW:12.26:Retracing:PLOW:12.25
+SCHW:12.26:Sliding up:PAVG:12.25:Buy Cost:163
+AA:8.51:Coming near:PLOW:8.52:short Cost:
+BMY:34.33:Breaking:PHIGH:34.31:Buy Cost:1339
+TLAB:3.53:Moving Down:PHIGH:3.58:short Cost:2832
+NE:31.78:Moving Beyond:PHIGH:31.45:Buy Cost:11139
+AXP::Approaching:PLOW:55.11:short Cost:0
+AXP::Breaking Beyond:PLOW:55.11:short Cost:0
+AXP::Breaking:PLOW:55.11:short Cost:0
+AXP::Sliding down:PAVG:55.24:Short Cost:0
+GLW::Moving Down:PHIGH:13.09:short Cost:0
+GLW::Approaching:PLOW:12.88:short Cost:0
+GLW::Retracing:PHIGH:13.09
+GLW::Breaking Beyond:PLOW:12.88:short Cost:0
+GLW::Breaking:PLOW:12.88:short Cost:0
+GLW::Sliding down:PAVG:12.90:Short Cost:0
+TJX::Moving Down:PHIGH:41.28:short Cost:0
+TJX::Approaching:PLOW:40.67:short Cost:0
+TJX::Coming near:PHIGH:41.28:Buy Cost:0
+TJX::Retracing:PHIGH:41.28
+TJX::Breaking Beyond:PLOW:40.67:short Cost:0
+TJX::Breaking:PLOW:40.67:short Cost:0
+TJX::Sliding down:PAVG:41.11:Short Cost:0
+CVH:32.39:Approaching:PHIGH:32.19:Buy Cost:4507
+CVH:32.39:Moving Up:PLOW:31.66:Buy Cost:4507
+CVH:32.39:Breaking:PHIGH:32.19:Buy Cost:4507
+CVH:32.39:Coming near:PLOW:31.66:short Cost:4507
+CVH:32.39:Retracing:PLOW:31.66
+CVH:32.39:Sliding up:PAVG:31.73:Buy Cost:4507
+SLE:20.12:Coming near:PLOW:20.25:short Cost:
+ITT:20.21:Approaching:PHIGH:19.74:Buy Cost:8906
+ITT:20.21:Moving Up:PLOW:19.31:Buy Cost:8906
+ITT:20.21:Breaking:PHIGH:19.74:Buy Cost:8906
+ITT:20.21:Moving Beyond:PHIGH:19.74:Buy Cost:8906
+ITT:20.21:Coming near:PLOW:19.31:short Cost:8906
+ITT:20.21:Retracing:PLOW:19.31
+ITT:20.21:Sliding up:PAVG:19.70:Buy Cost:8906
+TIE:11.38:Moving Beyond:PHIGH:11.36:Buy Cost:5623
+TJX:41.41:Approaching:PHIGH:41.28:Buy Cost:3574
+TJX:41.41:Moving Up:PLOW:40.67:Buy Cost:3574
+TJX:41.41:Breaking:PHIGH:41.28:Buy Cost:3574
+TJX:41.41:Moving Beyond:PHIGH:41.28:Buy Cost:3574
+TJX:41.41:Coming near:PLOW:40.67:short Cost:3574
+TJX:41.41:Retracing:PLOW:40.67
+TJX:41.41:Sliding up:PAVG:41.11:Buy Cost:3574
+JBL:19.05:Approaching:PHIGH:18.62:Buy Cost:13543
+JBL:19.05:Moving Up:PLOW:17.76:Buy Cost:13543
+JBL:19.05:Breaking:PHIGH:18.62:Buy Cost:13543
+JBL:19.05:Moving Beyond:PHIGH:18.62:Buy Cost:13543
+JBL:19.05:Coming near:PLOW:17.76:short Cost:13543
+JBL:19.05:Retracing:PLOW:17.76
+JBL:19.05:Sliding up:PAVG:18.60:Buy Cost:13543
+IPG:10.81:Approaching:PHIGH:10.36:Buy Cost:15726
+IPG:10.81:Moving Up:PLOW:9.96:Buy Cost:15726
+IPG:10.81:Breaking:PHIGH:10.36:Buy Cost:15726
+IPG:10.81:Moving Beyond:PHIGH:10.36:Buy Cost:15726
+IPG:10.81:Coming near:PLOW:9.96:short Cost:15726
+IPG:10.81:Retracing:PLOW:9.96
+IPG:10.81:Sliding up:PAVG:10.36:Buy Cost:15726
+GLW:13.13:Approaching:PHIGH:13.09:Buy Cost:3808
+GLW:13.13:Moving Up:PLOW:12.88:Buy Cost:3808
+GLW:13.13:Breaking:PHIGH:13.09:Buy Cost:3808
+GLW:13.13:Coming near:PLOW:12.88:short Cost:3808
+GLW:13.13:Retracing:PLOW:12.88
+GLW:13.13:Sliding up:PAVG:12.90:Buy Cost:3808
+CSX:21.04:Approaching:PHIGH:20.48:Buy Cost:8840
+CSX:21.04:Moving Up:PLOW:20.11:Buy Cost:8840
+CSX:21.04:Breaking:PHIGH:20.48:Buy Cost:8840
+CSX:21.04:Moving Beyond:PHIGH:20.48:Buy Cost:8840
+CSX:21.04:Coming near:PLOW:20.11:short Cost:8840
+CSX:21.04:Retracing:PLOW:20.11
+CSX:21.04:Sliding up:PAVG:20.33:Buy Cost:8840
+CVS:44.76:Approaching:PHIGH:20.48:Buy Cost:110142
+CVS:44.76:Moving Up:PLOW:20.11:Buy Cost:110142
+CVS:44.76:Breaking:PHIGH:20.48:Buy Cost:110142
+CVS:44.76:Moving Beyond:PHIGH:20.48:Buy Cost:110142
+CVS:44.76:Coming near:PLOW:20.11:short Cost:110142
+CVS:44.76:Retracing:PLOW:20.11
+CVS:44.76:Sliding up:PAVG:20.33:Buy Cost:110142
+HRB:15.44:Moving Up:PLOW:15.31:Buy Cost:1683
+CA:25.51:Coming near:PLOW:25.51:short Cost:
+COST:88.71:Breaking:PHIGH:88.70:Buy Cost:1713
+EXC:37.50:Breaking:PHIGH:37.48:Buy Cost:2400
+CIT:34.42:Sliding up:PAVG:34.39:Buy Cost:1220
+FDX:87.55:Approaching:PHIGH:85.69:Buy Cost:8566
+FDX:87.55:Moving Up:PLOW:83.80:Buy Cost:8566
+FDX:87.55:Breaking:PHIGH:85.69:Buy Cost:8566
+FDX:87.55:Moving Beyond:PHIGH:85.69:Buy Cost:8566
+FDX:87.55:Coming near:PLOW:83.80:short Cost:8566
+FDX:87.55:Retracing:PLOW:83.80
+FDX:87.55:Sliding up:PAVG:84.34:Buy Cost:8566
+GGP:17.07:Approaching:PHIGH:16.59:Buy Cost:13825
+GGP:17.07:Moving Up:PLOW:15.89:Buy Cost:13825
+GGP:17.07:Breaking:PHIGH:16.59:Buy Cost:13825
+GGP:17.07:Moving Beyond:PHIGH:16.59:Buy Cost:13825
+GGP:17.07:Coming near:PLOW:15.89:short Cost:13825
+GGP:17.07:Retracing:PLOW:15.89
+GGP:17.07:Sliding up:PAVG:16.51:Buy Cost:13825
+CSC:26.14:Moving Up:PLOW:26.13:Buy Cost:76
+CSC:26.14:Coming near:PLOW:26.13:short Cost:76
+CSC:26.14:Retracing:PLOW:26.13
+CSC:26.14:Sliding up:PAVG:26.13:Buy Cost:76
+AES:12.55:Approaching:PHIGH:12.67:Buy Cost:3346
+SUN:46.83:Moving Beyond:PHIGH:46.56:Buy Cost:5551
+MMM:85.90:Approaching:PHIGH:86.19:Buy Cost:1327
+YUM:64.48:Sliding up:PAVG:64.40:Buy Cost:2326
+WFR:1.70:Coming near:PHIGH:1.65:Buy Cost:
+MUR:45.77:Approaching:PHIGH:45.89:Buy Cost:4631
+SYMC:14.61:Breaking:PHIGH:14.60:Buy Cost:3969
+CNP:20.36:Approaching:PHIGH:20.35:Buy Cost:1375
+CNP:20.36:Breaking:PHIGH:20.35:Buy Cost:1375
+NSM:19.44:Approaching:PLOW:19.12:short Cost:9465
+MMC:31.94:Approaching:PHIGH:31.97:Buy Cost:3130
+MCO:36.30:Moving Beyond:PHIGH:36.20:Buy Cost:6556
+AXP:55.72:Moving Up:PLOW:55.11:Buy Cost:2189
+AXP:55.72:Coming near:PLOW:55.11:short Cost:2189
+AXP:55.72:Retracing:PLOW:55.11
+AXP:55.72:Sliding up:PAVG:55.24:Buy Cost:2189
+NBR:13.35:Retracing:PHIGH:13.36
+TLAB:3.53:Moving Down:PHIGH:3.58:short Cost:2832
+SYMC:14.61:Breaking:PHIGH:14.60:Buy Cost:3969
+AEE:33.24:Approaching:PHIGH:33.32:Buy Cost:1865
+BMC:43.74:Sliding up:PAVG:43.71:Buy Cost:1920
+BMY:34.35:Moving Beyond:PHIGH:34.31:Buy Cost:1455
+AA:8.53:Retracing:PLOW:8.52
+AAPL:580.34:Moving Beyond:PHIGH:577.32:Buy Cost:3391
+CA:25.50:Breaking:PLOW:25.51:short Cost:3764
+AGN:91.42:Approaching:PHIGH:91.90:Buy Cost:1815
+AFL:40.64:Coming near:PLOW:40.71:short Cost:
+CELG:65.05:Moving Up:PLOW:64.96:Buy Cost:276
+CCU:66.00:Approaching:PHIGH:66.18:Buy Cost:1666
+DTV:44.13:Moving Up:PLOW:44.01:Buy Cost:543
+CCE:26.88:Approaching:PHIGH:27.06:Buy Cost:1636
+WFR:1.74:Moving Beyond:PHIGH:1.65:Buy Cost:34482
+CA:25.51:Coming near:PLOW:25.51:short Cost:
+DELL:12.17:Sliding up:PAVG:12.16:Buy Cost:3615
+NBR:13.37:Breaking:PHIGH:13.36:Buy Cost:8526
+WMB:29.31:Sliding up:PAVG:29.30:Buy Cost:5458
+CNP:20.37:Moving Beyond:PHIGH:20.35:Buy Cost:1472
+EXC:37.47:Retracing:PHIGH:37.48
+ZION:18.38:Moving Beyond:PHIGH:18.18:Buy Cost:7399
+CSCO:16.74:Moving Down:PHIGH:16.92:short Cost:2150
+CIT:34.45:Sliding up:PAVG:34.39:Buy Cost:1393
+A:39.60:Coming near:PLOW:39.72:short Cost:
+CAG:25.12:Breaking:PHIGH:25.11:Buy Cost:1990
+APD:79.61:Coming near:PLOW:79.70:short Cost:
+BTU:24.29:Breaking:PHIGH:24.28:Buy Cost:7657
+AFL:40.72:Retracing:PLOW:40.71
+EXC:37.49:Breaking:PHIGH:37.48:Buy Cost:2347
+MO:32.91:Breaking:PHIGH:32.90:Buy Cost:2248
+BLL:41.12:Breaking:PHIGH:41.11:Buy Cost:4085
+ANF:32.15:Sliding up:PAVG:32.13:Buy Cost:1741
+BMY:34.36:Moving Beyond:PHIGH:34.31:Buy Cost:1513
+AIG:30.47:Approaching:PHIGH:30.73:Buy Cost:3216
+CELG:65.08:Sliding down:PAVG:65.09:Short Cost:3380
+CBS:32.23:Approaching:PHIGH:32.67:Buy Cost:3537
+CSCO:16.74:Moving Down:PHIGH:16.92:short Cost:2150
+BK:20.49:Sliding down:PAVG:20.50:Short Cost:2147
+ADP:53.68:Retracing:PHIGH:53.69
+CA:25.50:Breaking:PLOW:25.51:short Cost:3764
+CNX:28.27:Coming near:PLOW:28.31:short Cost:
+ADP:53.72:Breaking:PHIGH:53.69:Buy Cost:2457
+WMB:29.29:Sliding down:PAVG:29.30:Short Cost:409
+ACAS:9.13:Approaching:PHIGH:9.22:Buy Cost:2628
+YUM:64.56:Approaching:PHIGH:64.70:Buy Cost:2571
+XEL:28.46:Moving Beyond:PHIGH:28.40:Buy Cost:3654
+CSCO:16.74:Moving Down:PHIGH:16.92:short Cost:2150
+XL::Moving Down:PHIGH:19.80:short Cost:0
+XL::Approaching:PLOW:19.52:short Cost:0
+XL::Coming near:PHIGH:19.80:Buy Cost:0
+XL::Retracing:PHIGH:19.80
+XL::Breaking Beyond:PLOW:19.52:short Cost:0
+XL::Breaking:PLOW:19.52:short Cost:0
+XL::Sliding down:PAVG:19.76:Short Cost:0
+CNX:28.24:Breaking Beyond:PLOW:28.31:short Cost:10127
+CMCSA:30.31:Breaking:PHIGH:30.29:Buy Cost:2639
+CELG:65.12:Sliding up:PAVG:65.09:Buy Cost:491
+XL:20.36:Approaching:PHIGH:19.80:Buy Cost:8251
+XL:20.36:Moving Up:PLOW:19.52:Buy Cost:8251
+XL:20.36:Breaking:PHIGH:19.80:Buy Cost:8251
+XL:20.36:Moving Beyond:PHIGH:19.80:Buy Cost:8251
+XL:20.36:Coming near:PLOW:19.52:short Cost:8251
+XL:20.36:Retracing:PLOW:19.52
+XL:20.36:Sliding up:PAVG:19.76:Buy Cost:8251
+RSH:4.30:Retracing:PLOW:4.28
+AN:37.24:Moving Beyond:PHIGH:37.00:Buy Cost:5263
+SUN:46.79:Coming near:PHIGH:46.56:Buy Cost:
+DELL:12.15:Sliding down:PAVG:12.16:Short Cost:1481
+SYMC:14.59:Retracing:PHIGH:14.60
+CELG:65.08:Sliding down:PAVG:65.09:Short Cost:3380
+ANF:32.11:Sliding down:PAVG:32.13:Short Cost:8097
+CBS:32.20:Moving Down:PHIGH:32.67:short Cost:2919
+AFL:40.68:Breaking:PLOW:40.71:short Cost:5309
+APD:79.50:Breaking Beyond:PLOW:79.70:short Cost:3295
+WMB:29.31:Sliding up:PAVG:29.30:Buy Cost:5458
+AN:37.22:Coming near:PHIGH:37.00:Buy Cost:
+BLL:41.09:Retracing:PHIGH:41.11
+YUM:64.44:Moving Down:PHIGH:64.70:short Cost:806
+A:39.58:Breaking Beyond:PLOW:39.72:short Cost:4951
+MMC:31.96:Retracing:PHIGH:31.97
+SLE:20.12:Coming near:PLOW:20.25:short Cost:
+ADP:53.70:Breaking:PHIGH:53.69:Buy Cost:2383
+CELG:65.10:Sliding up:PAVG:65.09:Buy Cost:430
+CSC:26.12:Approaching:PLOW:26.13:short Cost:6431
+CSC:26.12:Breaking Beyond:PLOW:26.13:short Cost:6431
+CSC:26.12:Breaking:PLOW:26.13:short Cost:6431
+CSC:26.12:Sliding down:PAVG:26.13:Short Cost:6431
+K:48.57:Coming near:PHIGH:48.46:Buy Cost:
+ADP:53.68:Retracing:PHIGH:53.69
+XEL:28.43:Coming near:PHIGH:28.40:Buy Cost:
+CMCSA:30.26:Retracing:PHIGH:30.29
+AIG:30.42:Moving Down:PHIGH:30.73:short Cost:2038
+ETFC:8.15:Moving Down:PHIGH:8.25:short Cost:2453
+DTV:44.09:Approaching:PLOW:44.01:short Cost:1859
+BTU:24.26:Retracing:PHIGH:24.28
+CELG:65.07:Sliding down:PAVG:65.09:Short Cost:3411
+SYMC:14.57:Moving Down:PHIGH:14.60:short Cost:411
+MMC:31.94:Retracing:PHIGH:31.97
+NBR:13.37:Breaking:PHIGH:13.36:Buy Cost:8526
+BMC:43.72:Sliding up:PAVG:43.71:Buy Cost:1829
+HRB:15.43:Moving Up:PLOW:15.31:Buy Cost:1555
+SNV:1.74:Retracing:PHIGH:1.75
+AIG:30.45:Approaching:PHIGH:30.73:Buy Cost:3087
+SYMC:14.59:Approaching:PHIGH:14.60:Buy Cost:3701
+QLGC:13.77:Coming near:PHIGH:13.77:Buy Cost:
+ACAS:9.12:Moving Down:PHIGH:9.22:short Cost:2192
+AN:37.24:Moving Beyond:PHIGH:37.00:Buy Cost:5263
+CA:25.49:Breaking Beyond:PLOW:25.51:short Cost:3844
+CELG:65.10:Sliding up:PAVG:65.09:Buy Cost:430
+CBS:32.22:Approaching:PHIGH:32.67:Buy Cost:3476
+ANF:32.14:Sliding up:PAVG:32.13:Buy Cost:1680
+CCU:65.84:Moving Down:PHIGH:66.18:short Cost:1032
+CMS:23.54:Retracing:PHIGH:23.55
+A:39.61:Coming near:PLOW:39.72:short Cost:
+CVH:32.45:Moving Beyond:PHIGH:32.19:Buy Cost:4869
+ETFC:8.18:Approaching:PHIGH:8.25:Buy Cost:9046
+BMC:43.70:Sliding down:PAVG:43.71:Short Cost:1693
+WFR:1.70:Coming near:PHIGH:1.65:Buy Cost:
+QLGC:13.76:Retracing:PHIGH:13.77
+DTV:44.13:Moving Up:PLOW:44.01:Buy Cost:543
+APD:79.53:Breaking Beyond:PLOW:79.70:short Cost:3218
+ANF:32.12:Sliding down:PAVG:32.13:Short Cost:8032
+AA:8.53:Retracing:PLOW:8.52
+MO:32.89:Retracing:PHIGH:32.90
+AN:37.23:Coming near:PHIGH:37.00:Buy Cost:
+WMB:29.35:Approaching:PHIGH:29.35:Buy Cost:5724
+XEL:28.43:Breaking:PHIGH:28.40:Buy Cost:3447
+BLL:41.10:Retracing:PHIGH:41.11
+SNV:1.74:Retracing:PHIGH:1.75
+DTV:44.12:Approaching:PLOW:44.01:short Cost:1722
+SLE:20.12:Coming near:PLOW:20.25:short Cost:
+OMX:4.46:Moving Beyond:PHIGH:4.37:Buy Cost:13452
+EXC:37.46:Retracing:PHIGH:37.48
+CAG:25.12:Breaking:PHIGH:25.11:Buy Cost:1990
+ADP:53.68:Retracing:PHIGH:53.69
+A:39.57:Breaking Beyond:PLOW:39.72:short Cost:5003
+MCO:36.26:Coming near:PHIGH:36.20:Buy Cost:
+SYMC:14.57:Moving Down:PHIGH:14.60:short Cost:411
+CCU:65.95:Approaching:PHIGH:66.18:Buy Cost:1516
+CTXS:77.02:Moving Down:PHIGH:78.15:short Cost:2934
+CSC:26.10:Approaching:PLOW:26.13:short Cost:6590
+CSC:26.10:Breaking Beyond:PLOW:26.13:short Cost:6590
+CSC:26.10:Breaking:PLOW:26.13:short Cost:6590
+CSC:26.10:Sliding down:PAVG:26.13:Short Cost:6590
+MO:32.91:Breaking:PHIGH:32.90:Buy Cost:2248
+NBR:13.34:Retracing:PHIGH:13.36
+BMY:34.32:Coming near:PHIGH:34.31:Buy Cost:
+TSO:22.38:Sliding down:PAVG:22.39:Short Cost:3485
+AEP:39.70:Coming near:PHIGH:39.64:Buy Cost:
+NVDA:12.10:Coming near:PHIGH:12.10:Buy Cost:
+AFL:40.60:Breaking Beyond:PLOW:40.71:short Cost:5714
+AMZN:218.38:Approaching:PLOW:218.11:short Cost:2848
+AIG:30.40:Moving Down:PHIGH:30.73:short Cost:2171
+CELG:64.99:Approaching:PLOW:64.96:short Cost:3662
+CELG:64.99:Sliding down:PAVG:65.09:Short Cost:3662
+CTXS:77.07:Approaching:PHIGH:78.15:Buy Cost:3581
+CBS:32.19:Moving Down:PHIGH:32.67:short Cost:2982
+NVDA:12.12:Breaking:PHIGH:12.10:Buy Cost:7425
+NVDA:12.12:Moving Beyond:PHIGH:12.10:Buy Cost:7425
+SYMC:14.57:Sliding up:PAVG:14.56:Buy Cost:3431
+HRB:15.43:Moving Up:PLOW:15.31:Buy Cost:1555
+WMB:29.33:Retracing:PHIGH:29.35
+QLGC:13.76:Approaching:PHIGH:13.77:Buy Cost:5523
+MO:32.93:Breaking:PHIGH:32.90:Buy Cost:2368
+CTL:37.38:Approaching:PHIGH:37.61:Buy Cost:2193
+COST:88.71:Breaking:PHIGH:88.70:Buy Cost:1713
+TIE:11.37:Coming near:PHIGH:11.36:Buy Cost:
+CBS:32.21:Approaching:PHIGH:32.67:Buy Cost:3415
+CAG:25.12:Breaking:PHIGH:25.11:Buy Cost:1990
+TSO:22.40:Sliding up:PAVG:22.39:Buy Cost:3928
+AA:8.51:Breaking:PLOW:8.52:short Cost:9400
+TLAB:3.53:Moving Down:PHIGH:3.58:short Cost:2832
+QLGC:13.78:Breaking:PHIGH:13.77:Buy Cost:5805
+SLE:20.10:Breaking Beyond:PLOW:20.25:short Cost:6268
+NVDA:12.11:Coming near:PHIGH:12.10:Buy Cost:
+AIG:30.49:Approaching:PHIGH:30.73:Buy Cost:3345
+K:48.57:Coming near:PHIGH:48.46:Buy Cost:
+K:48.59:Moving Beyond:PHIGH:48.46:Buy Cost:2922
+AFL:40.62:Coming near:PLOW:40.71:short Cost:
+APD:79.55:Coming near:PLOW:79.70:short Cost:
+COST:88.73:Breaking:PHIGH:88.70:Buy Cost:1758
+AXP:55.83:Approaching:PHIGH:56.37:Buy Cost:2579
+BLL:41.15:Breaking:PHIGH:41.11:Buy Cost:4228
+SLE:20.12:Coming near:PLOW:20.25:short Cost:
+MCO:36.30:Moving Beyond:PHIGH:36.20:Buy Cost:6556
+YUM:64.59:Approaching:PHIGH:64.70:Buy Cost:2662
+TIE:11.38:Moving Beyond:PHIGH:11.36:Buy Cost:5623
+ANF:32.15:Sliding up:PAVG:32.13:Buy Cost:1741
+CTXS:77.12:Approaching:PHIGH:78.15:Buy Cost:3708
+BMY:34.35:Moving Beyond:PHIGH:34.31:Buy Cost:1455
+QLGC:13.79:Breaking:PHIGH:13.77:Buy Cost:5946
+MO:32.91:Breaking:PHIGH:32.90:Buy Cost:2248
+WMB:29.38:Breaking:PHIGH:29.35:Buy Cost:5922
+WMB:29.38:Moving Beyond:PHIGH:29.35:Buy Cost:5922
+CSC:26.14:Moving Up:PLOW:26.13:Buy Cost:76
+CSC:26.14:Coming near:PLOW:26.13:short Cost:76
+CSC:26.14:Retracing:PLOW:26.13
+CSC:26.14:Sliding up:PAVG:26.13:Buy Cost:76
+CELG:65.04:Moving Up:PLOW:64.96:Buy Cost:246
+NVDA:12.12:Moving Beyond:PHIGH:12.10:Buy Cost:7425
+MMC:31.98:Breaking:PHIGH:31.97:Buy Cost:3377
+A:39.60:Coming near:PLOW:39.72:short Cost:
+AMZN:218.48:Moving Up:PLOW:218.11:Buy Cost:338
+BUD:68.13:Approaching:PHIGH:68.62:Buy Cost:2730
+RSH:4.34:Moving Up:PLOW:4.28:Buy Cost:2764
+NBR:13.37:Breaking:PHIGH:13.36:Buy Cost:8526
+WMB:29.37:Coming near:PHIGH:29.35:Buy Cost:
+OMX:4.47:Moving Beyond:PHIGH:4.37:Buy Cost:13870
+BTU:24.27:Retracing:PHIGH:24.28
+HCBK::Moving Down:PHIGH:5.97:short Cost:0
+HCBK::Approaching:PLOW:5.85:short Cost:0
+HCBK::Coming near:PHIGH:5.97:Buy Cost:0
+HCBK::Retracing:PHIGH:5.97
+HCBK::Breaking Beyond:PLOW:5.85:short Cost:0
+HCBK::Breaking:PLOW:5.85:short Cost:0
+HCBK::Sliding down:PAVG:5.94:Short Cost:0
+CMS:23.56:Breaking:PHIGH:23.55:Buy Cost:2122
+HCBK:6.04:Approaching:PHIGH:5.97:Buy Cost:6291
+HCBK:6.04:Moving Up:PLOW:5.85:Buy Cost:6291
+HCBK:6.04:Breaking:PHIGH:5.97:Buy Cost:6291
+HCBK:6.04:Moving Beyond:PHIGH:5.97:Buy Cost:6291
+HCBK:6.04:Coming near:PLOW:5.85:short Cost:6291
+HCBK:6.04:Retracing:PLOW:5.85
+HCBK:6.04:Sliding up:PAVG:5.94:Buy Cost:6291
+ITW::Moving Down:PHIGH:54.36:short Cost:0
+ITW::Approaching:PLOW:53.49:short Cost:0
+AMT::Moving Down:PHIGH:66.57:short Cost:0
+ITW::Coming near:PHIGH:54.36:Buy Cost:0
+AMT::Approaching:PLOW:65.25:short Cost:0
+ITW::Retracing:PHIGH:54.36
+AMT::Breaking Beyond:PLOW:65.25:short Cost:0
+ITW::Breaking Beyond:PLOW:53.49:short Cost:0
+AMT::Breaking:PLOW:65.25:short Cost:0
+ITW::Breaking:PLOW:53.49:short Cost:0
+ITW::Sliding down:PAVG:54.19:Short Cost:0
+AMT::Sliding down:PAVG:65.34:Short Cost:0
+ITW:56.01:Approaching:PHIGH:54.36:Buy Cost:8998
+ITW:56.01:Moving Up:PLOW:53.49:Buy Cost:8998
+ITW:56.01:Breaking:PHIGH:54.36:Buy Cost:8998
+ITW:56.01:Moving Beyond:PHIGH:54.36:Buy Cost:8998
+ITW:56.01:Coming near:PLOW:53.49:short Cost:8998
+ITW:56.01:Retracing:PLOW:53.49
+ITW:56.01:Sliding up:PAVG:54.19:Buy Cost:8998
+AMT:66.30:Approaching:PHIGH:66.57:Buy Cost:3167
+AMT:66.30:Moving Up:PLOW:65.25:Buy Cost:3167
+AMT:66.30:Coming near:PLOW:65.25:short Cost:3167
+AMT:66.30:Retracing:PLOW:65.25
+AMT:66.30:Sliding up:PAVG:65.34:Buy Cost:3167
+TDC::Moving Down:PHIGH:67.27:short Cost:0
+TDC::Approaching:PLOW:64.65:short Cost:0
+TDC::Coming near:PHIGH:67.27:Buy Cost:0
+TDC::Retracing:PHIGH:67.27
+TDC::Breaking Beyond:PLOW:64.65:short Cost:0
+TDC::Breaking:PLOW:64.65:short Cost:0
+TDC::Sliding down:PAVG:66.74:Short Cost:0
+DUK::Moving Down:PHIGH:22.76:short Cost:0
+DUK::Approaching:PLOW:22.40:short Cost:0
+DUK::Coming near:PHIGH:22.76:Buy Cost:0
+DUK::Retracing:PHIGH:22.76
+DUK::Breaking Beyond:PLOW:22.40:short Cost:0
+DUK::Breaking:PLOW:22.40:short Cost:0
+DUK::Sliding down:PAVG:22.61:Short Cost:0
+CCU::Moving Down:PHIGH:66.18:short Cost:0
+CCU::Approaching:PLOW:65.45:short Cost:0
+CCU::Breaking Beyond:PLOW:65.45:short Cost:0
+CCU::Breaking:PLOW:65.45:short Cost:0
+CCU::Sliding down:PAVG:65.60:Short Cost:0
+CCU:65.99:Approaching:PHIGH:66.18:Buy Cost:1636
+CCU:65.99:Moving Up:PLOW:65.45:Buy Cost:1636
+CCU:65.99:Coming near:PLOW:65.45:short Cost:1636
+CCU:65.99:Retracing:PLOW:65.45
+CCU:65.99:Sliding up:PAVG:65.60:Buy Cost:1636
+TDC:68.66:Approaching:PHIGH:67.27:Buy Cost:11680
+TDC:68.66:Moving Up:PLOW:64.65:Buy Cost:11680
+TDC:68.66:Breaking:PHIGH:67.27:Buy Cost:11680
+TDC:68.66:Moving Beyond:PHIGH:67.27:Buy Cost:11680
+TDC:68.66:Coming near:PLOW:64.65:short Cost:11680
+TDC:68.66:Retracing:PLOW:64.65
+TDC:68.66:Sliding up:PAVG:66.74:Buy Cost:11680
+IP::Moving Down:PHIGH:28.22:short Cost:0
+IP::Approaching:PLOW:27.61:short Cost:0
+IP::Coming near:PHIGH:28.22:Buy Cost:0
+IP::Retracing:PHIGH:28.22
+IP::Breaking Beyond:PLOW:27.61:short Cost:0
+IP::Breaking:PLOW:27.61:short Cost:0
+IP::Sliding down:PAVG:28.08:Short Cost:0
+UNP::Moving Down:PHIGH:107.64:short Cost:0
+UNP::Approaching:PLOW:105.52:short Cost:0
+UNP::Coming near:PHIGH:107.64:Buy Cost:0
+UNP::Retracing:PHIGH:107.64
+UNP::Breaking Beyond:PLOW:105.52:short Cost:0
+UNP::Breaking:PLOW:105.52:short Cost:0
+UNP::Sliding down:PAVG:107.08:Short Cost:0
+LEG::Moving Down:PHIGH:20.19:short Cost:0
+LEG::Approaching:PLOW:19.65:short Cost:0
+LEG::Coming near:PHIGH:20.19:Buy Cost:0
+LEG::Retracing:PHIGH:20.19
+LEG::Breaking Beyond:PLOW:19.65:short Cost:0
+LEG::Breaking:PLOW:19.65:short Cost:0
+LEG::Sliding down:PAVG:20.15:Short Cost:0
+TLAB::Approaching:PLOW:3.47:short Cost:0
+TLAB::Breaking Beyond:PLOW:3.47:short Cost:0
+TLAB::Breaking:PLOW:3.47:short Cost:0
+TLAB::Sliding down:PAVG:3.50:Short Cost:0
+PNW::Moving Down:PHIGH:50.51:short Cost:0
+PNW::Approaching:PLOW:49.65:short Cost:0
+PNW::Coming near:PHIGH:50.51:Buy Cost:0
+PNW::Retracing:PHIGH:50.51
+PNW::Breaking Beyond:PLOW:49.65:short Cost:0
+PNW::Breaking:PLOW:49.65:short Cost:0
+PNW::Sliding down:PAVG:50.34:Short Cost:0
+MCK::Moving Down:PHIGH:87.68:short Cost:0
+MCK::Approaching:PLOW:86.67:short Cost:0
+MCK::Coming near:PHIGH:87.68:Buy Cost:0
+MCK::Retracing:PHIGH:87.68
+MCK::Breaking Beyond:PLOW:86.67:short Cost:0
+MCK::Breaking:PLOW:86.67:short Cost:0
+MCK::Sliding down:PAVG:87.58:Short Cost:0
+SRE::Moving Down:PHIGH:64.73:short Cost:0
+EXC::Moving Down:PHIGH:37.48:short Cost:0
+SRE::Approaching:PLOW:63.30:short Cost:0
+SRE::Coming near:PHIGH:64.73:Buy Cost:0
+EXC::Approaching:PLOW:37.05:short Cost:0
+EXC::Breaking Beyond:PLOW:37.05:short Cost:0
+SRE::Retracing:PHIGH:64.73
+EXC::Breaking:PLOW:37.05:short Cost:0
+EXC::Sliding down:PAVG:37.27:Short Cost:0
+SRE::Breaking Beyond:PLOW:63.30:short Cost:0
+SRE::Breaking:PLOW:63.30:short Cost:0
+SRE::Sliding down:PAVG:64.08:Short Cost:0
+HON::Moving Down:PHIGH:53.51:short Cost:0
+HON::Approaching:PLOW:52.81:short Cost:0
+HON::Coming near:PHIGH:53.51:Buy Cost:0
+HON::Retracing:PHIGH:53.51
+HON::Breaking Beyond:PLOW:52.81:short Cost:0
+HON::Breaking:PLOW:52.81:short Cost:0
+HON::Sliding down:PAVG:53.29:Short Cost:0
+BMC::Approaching:PLOW:43.32:short Cost:0
+BMC::Breaking Beyond:PLOW:43.32:short Cost:0
+BMC::Breaking:PLOW:43.32:short Cost:0
+TJX::Moving Down:PHIGH:41.28:short Cost:0
+TJX::Approaching:PLOW:40.67:short Cost:0
+TJX::Coming near:PHIGH:41.28:Buy Cost:0
+TJX::Retracing:PHIGH:41.28
+TJX::Breaking Beyond:PLOW:40.67:short Cost:0
+TJX::Breaking:PLOW:40.67:short Cost:0
+TJX::Sliding down:PAVG:41.11:Short Cost:0
+RIG::Moving Down:PHIGH:40.99:short Cost:0
+RIG::Approaching:PLOW:39.88:short Cost:0
+RIG::Coming near:PHIGH:40.99:Buy Cost:0
+RIG::Retracing:PHIGH:40.99
+RIG::Breaking Beyond:PLOW:39.88:short Cost:0
+RIG::Breaking:PLOW:39.88:short Cost:0
+RIG::Sliding down:PAVG:40.52:Short Cost:0
+OXY::Moving Down:PHIGH:81.55:short Cost:0
+OXY::Approaching:PLOW:80.00:short Cost:0
+OXY::Coming near:PHIGH:81.55:Buy Cost:0
+OXY::Retracing:PHIGH:81.55
+OXY::Breaking Beyond:PLOW:80.00:short Cost:0
+OXY::Breaking:PLOW:80.00:short Cost:0
+OXY::Sliding down:PAVG:81.18:Short Cost:0
+YUM::Moving Down:PHIGH:64.70:short Cost:0
+YUM::Approaching:PLOW:63.73:short Cost:0
+YUM::Breaking Beyond:PLOW:63.73:short Cost:0
+YUM::Breaking:PLOW:63.73:short Cost:0
+YUM::Sliding down:PAVG:64.40:Short Cost:0
+XL::Moving Down:PHIGH:19.80:short Cost:0
+XL::Approaching:PLOW:19.52:short Cost:0
+XL::Coming near:PHIGH:19.80:Buy Cost:0
+XL::Retracing:PHIGH:19.80
+XL::Breaking Beyond:PLOW:19.52:short Cost:0
+XL::Breaking:PLOW:19.52:short Cost:0
+XL::Sliding down:PAVG:19.76:Short Cost:0
+KSS::Moving Down:PHIGH:44.14:short Cost:0
+KSS::Approaching:PLOW:43.65:short Cost:0
+KSS::Coming near:PHIGH:44.14:Buy Cost:0
+KSS::Retracing:PHIGH:44.14
+KSS::Breaking Beyond:PLOW:43.65:short Cost:0
+KSS::Breaking:PLOW:43.65:short Cost:0
+KSS::Sliding down:PAVG:44.00:Short Cost:0
+GR::Moving Down:PHIGH:125.45:short Cost:0
+GR::Approaching:PLOW:125.25:short Cost:0
+GR::Coming near:PHIGH:125.45:Buy Cost:0
+GR::Retracing:PHIGH:125.45
+GR::Breaking Beyond:PLOW:125.25:short Cost:0
+GR::Breaking:PLOW:125.25:short Cost:0
+GR::Sliding down:PAVG:125.42:Short Cost:0
+CTXS::Moving Down:PHIGH:78.15:short Cost:0
+CTXS::Approaching:PLOW:75.69:short Cost:0
+CTXS::Breaking Beyond:PLOW:75.69:short Cost:0
+CTXS::Breaking:PLOW:75.69:short Cost:0
+CTXS::Sliding down:PAVG:75.91:Short Cost:0
+ZION::Moving Down:PHIGH:18.18:short Cost:0
+ZION::Approaching:PLOW:17.70:short Cost:0
+ZION::Coming near:PHIGH:18.18:Buy Cost:0
+ZION::Retracing:PHIGH:18.18
+ZION::Breaking Beyond:PLOW:17.70:short Cost:0
+ZION::Breaking:PLOW:17.70:short Cost:0
+ZION::Sliding down:PAVG:17.81:Short Cost:0
+TYC::Moving Down:PHIGH:52.03:short Cost:0
+TYC::Approaching:PLOW:51.00:short Cost:0
+TYC::Coming near:PHIGH:52.03:Buy Cost:0
+TYC::Retracing:PHIGH:52.03
+TYC::Breaking Beyond:PLOW:51.00:short Cost:0
+TYC::Breaking:PLOW:51.00:short Cost:0
+TYC::Sliding down:PAVG:51.82:Short Cost:0
+MCD::Moving Down:PHIGH:87.41:short Cost:0
+MCD::Approaching:PLOW:86.01:short Cost:0
+MCD::Coming near:PHIGH:87.41:Buy Cost:0
+MCD::Retracing:PHIGH:87.41
+MCD::Breaking Beyond:PLOW:86.01:short Cost:0
+MCD::Breaking:PLOW:86.01:short Cost:0
+MCD::Sliding down:PAVG:87.08:Short Cost:0
+GPC::Moving Down:PHIGH:60.88:short Cost:0
+GPC::Approaching:PLOW:59.38:short Cost:0
+GPC::Coming near:PHIGH:60.88:Buy Cost:0
+GPC::Retracing:PHIGH:60.88
+GPC::Breaking Beyond:PLOW:59.38:short Cost:0
+USB::Moving Down:PHIGH:29.33:short Cost:0
+GPC::Breaking:PLOW:59.38:short Cost:0
+USB::Approaching:PLOW:28.58:short Cost:0
+GPC::Sliding down:PAVG:60.16:Short Cost:0
+USB::Coming near:PHIGH:29.33:Buy Cost:0
+USB::Retracing:PHIGH:29.33
+USB::Breaking Beyond:PLOW:28.58:short Cost:0
+USB::Breaking:PLOW:28.58:short Cost:0
+USB::Sliding down:PAVG:29.22:Short Cost:0
+UIS::Moving Down:PHIGH:15.07:short Cost:0
+UIS::Approaching:PLOW:14.40:short Cost:0
+UIS::Coming near:PHIGH:15.07:Buy Cost:0
+UIS::Retracing:PHIGH:15.07
+UIS::Breaking Beyond:PLOW:14.40:short Cost:0
+UIS::Breaking:PLOW:14.40:short Cost:0
+UIS::Sliding down:PAVG:15.04:Short Cost:0
+GD::Moving Down:PHIGH:62.18:short Cost:0
+GD::Approaching:PLOW:61.55:short Cost:0
+GD::Coming near:PHIGH:62.18:Buy Cost:0
+GD::Retracing:PHIGH:62.18
+GD::Breaking Beyond:PLOW:61.55:short Cost:0
+GD::Breaking:PLOW:61.55:short Cost:0
+GD::Sliding down:PAVG:61.98:Short Cost:0
+JNPR::Approaching:PLOW:16.70:short Cost:0
+JNPR::Breaking Beyond:PLOW:16.70:short Cost:0
+JNPR::Breaking:PLOW:16.70:short Cost:0
+UPS::Moving Down:PHIGH:73.05:short Cost:0
+UTX::Moving Down:PHIGH:71.37:short Cost:0
+UPS::Approaching:PLOW:72.15:short Cost:0
+UTX::Approaching:PLOW:70.71:short Cost:0
+UPS::Coming near:PHIGH:73.05:Buy Cost:0
+UPS::Retracing:PHIGH:73.05
+UPS::Breaking Beyond:PLOW:72.15:short Cost:0
+UTX::Coming near:PHIGH:71.37:Buy Cost:0
+UPS::Breaking:PLOW:72.15:short Cost:0
+UTX::Retracing:PHIGH:71.37
+UPS::Sliding down:PAVG:72.80:Short Cost:0
+UTX::Breaking Beyond:PLOW:70.71:short Cost:0
+UTX::Breaking:PLOW:70.71:short Cost:0
+UTX::Sliding down:PAVG:70.88:Short Cost:0
+BLL::Moving Down:PHIGH:41.11:short Cost:0
+BLL::Approaching:PLOW:40.28:short Cost:0
+BLL::Retracing:PHIGH:41.11
+BLL::Breaking Beyond:PLOW:40.28:short Cost:0
+BLL::Breaking:PLOW:40.28:short Cost:0
+BLL::Sliding down:PAVG:40.34:Short Cost:0
+SWK::Moving Down:PHIGH:63.10:short Cost:0
+SWK::Approaching:PLOW:61.54:short Cost:0
+SWK::Coming near:PHIGH:63.10:Buy Cost:0
+SWK::Retracing:PHIGH:63.10
+SWK::Breaking Beyond:PLOW:61.54:short Cost:0
+SWK::Breaking:PLOW:61.54:short Cost:0
+SWK::Sliding down:PAVG:62.92:Short Cost:0
+HPQ::Moving Down:PHIGH:21.75:short Cost:0
+HPQ::Approaching:PLOW:21.06:short Cost:0
+HPQ::Coming near:PHIGH:21.75:Buy Cost:0
+HPQ::Retracing:PHIGH:21.75
+HPQ::Breaking Beyond:PLOW:21.06:short Cost:0
+HPQ::Breaking:PLOW:21.06:short Cost:0
+HPQ::Sliding down:PAVG:21.68:Short Cost:0
+HES::Moving Down:PHIGH:43.68:short Cost:0
+HES::Approaching:PLOW:42.51:short Cost:0
+HES::Coming near:PHIGH:43.68:Buy Cost:0
+HES::Retracing:PHIGH:43.68
+HES::Breaking Beyond:PLOW:42.51:short Cost:0
+HES::Breaking:PLOW:42.51:short Cost:0
+HES::Sliding down:PAVG:43.01:Short Cost:0
