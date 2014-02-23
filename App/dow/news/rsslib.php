@@ -1,4 +1,4 @@
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 /*
 	RSS Extractor and Displayer
 	(c) 2007-2010  Scriptol.com - Licence Mozilla 1.1.
@@ -11,7 +11,7 @@
 	Using the library:
 	Insert this code into the page that displays the RSS feed:
 	
-	<?php
+	/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 	require_once("rsslib.php");
 	echo RSS_Display("http://www.xul.fr/rss.xml", 15);
 	? >
