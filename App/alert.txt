@@ -1,4 +1,4 @@
-JNPR:16.91:Moving Up:PLOW:16.70:Buy Cost:2483
+/*Owner & Copyrights: Vance King Saxbe. A.*/JNPR:16.91:Moving Up:PLOW:16.70:Buy Cost:2483
 CSCO:16.74:Moving Down:PHIGH:16.92:short Cost:2150
 CA:25.49:Breaking Beyond:PLOW:25.51:short Cost:3844
 CNP:20.36:Coming near:PHIGH:20.35:Buy Cost:
@@ -1214,3 +1214,4 @@ HES::Retracing:PHIGH:43.68
 HES::Breaking Beyond:PLOW:42.51:short Cost:0
 HES::Breaking:PLOW:42.51:short Cost:0
 HES::Sliding down:PAVG:43.01:Short Cost:0
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

@@ -1,4 +1,4 @@
-INTC:27.28:Approaching:PHIGH:27.35:Buy Cost:3885
+/*Owner & Copyrights: Vance King Saxbe. A.*/INTC:27.28:Approaching:PHIGH:27.35:Buy Cost:3885
 INTC:27.27:Moving Down:PHIGH:27.35:short Cost:586
 MMM:87.28:Sliding up:PAVG:87.27:Buy Cost:2978
 JNJ:64.59:Approaching:PHIGH:64.88:Buy Cost:1052
@@ -4428,3 +4428,4 @@ MMM:130.13:Approaching:PHIGH:85.64:Buy Cost:70514
 MMM:130.13:Breaking:PHIGH:85.64:Buy Cost:70514
 MMM:130.13:Moving Beyond:PHIGH:85.64:Buy Cost:70514
 MMM:130.13:Sliding up:PAVG:84.34:Buy Cost:70514
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

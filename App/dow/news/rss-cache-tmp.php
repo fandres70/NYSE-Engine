@@ -1,4 +1,4 @@
-<ul>
+/*Owner & Copyrights: Vance King Saxbe. A.*/<ul>
 <li><a href="http://www.scriptol.com/programming/graphic-algorithms.php">Amazing algorithms to enhance or transform images</a> <span class="rssdate">Wed, 16 Nov 2011 07:22:15 GMT</span><br><span class='rssdesc'>List of algorithms for image processing whose level of intelligence avoids infinitely complex tasks.</span></li>
 <li><a href="http://www.scriptol.com/design/gimp/logo.php">From sketch to logo: Creating a text and image logo with GIMP</a> <span class="rssdate">Wed, 16 Nov 2011 07:21:42 GMT</span><br><span class='rssdesc'>Alpha to logo adds a texture to images with some fancy effects.</span></li>
 <li><a href="http://www.scriptol.com/software/windows-8.php">Windows 8, fake welcome screen, true 1st april fool</a> <span class="rssdate">Fri, 15 Apr 2011 08:00:20 UTC</span><br><span class='rssdesc'>Windows 8 will be different. The information filter slowly on this new system that will address all types of machines: tablets, netbooks, desktops. Test versions were submitted to some manufacturers computer for they test it on their hardware.</span></li>
@@ -12,3 +12,4 @@
 <li><a href="http://www.scriptol.com/ajax/frameworks.php">List and comparison of Ajax PHP frameworks</a> <span class="rssdate">Fri, 21 Sep 2007 15:21:26 GMT</span><br><span class='rssdesc'>These libraries are comprised of a JavaScript part for the browser side, and PHP scripts working on the server. A small library with a single PHP class and JavaScript code. </span></li>
 </ul>
 
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

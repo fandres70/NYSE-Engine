@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html40/loose.dtd">
+/*Owner & Copyrights: Vance King Saxbe. A.*/<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html40/loose.dtd">
 <html>
   <table cellspacing="0" cellpadding="0" border="0"
  bgcolor="black" id="shell" height="13" width="1000">
@@ -1281,3 +1281,4 @@
 <td>
   </body>
 </html>
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

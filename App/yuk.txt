@@ -1,4 +1,4 @@
-<tr>
+/*Owner & Copyrights: Vance King Saxbe. A.*/<tr>
 <td><object
         
         width="98" height="13"
@@ -20,4 +20,4 @@
           allowscriptaccess="samedomain"
         >
         </embed>
-      </object></td></tr>
+      </object></td></tr>/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

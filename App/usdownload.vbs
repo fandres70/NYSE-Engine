@@ -1,4 +1,4 @@
- 'Set your settings
+/*Owner & Copyrights: Vance King Saxbe. A.*/ 'Set your settings
 Dim name(458)
 Dim fullname(458)
 
@@ -986,4 +986,4 @@ End If
 
 
 Next
-Msgbox "OPeration accomplished."
+Msgbox "OPeration accomplished."/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

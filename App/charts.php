@@ -1,4 +1,4 @@
-<?PHP
+/*Owner & Copyrights: Vance King Saxbe. A.*/<?PHP
 
 $file_handle = fopen("alert.txt", "rb");
 $c = 0;
@@ -22,4 +22,4 @@ $c--;
 
 fclose($file_handle);
 
-?>
+?>/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/
